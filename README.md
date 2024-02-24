@@ -45,8 +45,7 @@ C# (Xamarin.Forms, ASP.NET, WPF)
 Git Github
 
 
-T-SQL
-
+T-SQL  
 Имел небольшой опыт работы в SQL Server Management
 
 <!--
