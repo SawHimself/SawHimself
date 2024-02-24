@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 C# (Xamarin.Forms, ASP.NET, WPF) 
 
 Git Github
-  
-Также имел небольшой опыт работы в 
-SQL Server Management (ms sql)
+
+T-SQL
+Имел небольшой опыт работы в SQL Server Management
 
 <!--
 ## Опыт работы
