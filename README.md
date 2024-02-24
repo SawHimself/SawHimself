@@ -7,7 +7,7 @@
 </p>
 
 <br>:spiral_calendar:<b>Занятость:</b>
-До 30 часов в неделю (в связи с продолжающимся обучением в вузе)
+До 32 часов в неделю (в связи с продолжающимся обучением в вузе)
 <!--
 **SawHimself/SawHimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
