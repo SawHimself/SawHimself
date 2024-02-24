@@ -5,10 +5,8 @@
 	📍Москва, м. Багратионовская
         ℹ️ Возраст: 20 лет
 </p>
-<p>
-	
-</p>
-:spiral_calendar:<b>Занятость:</b>
+
+<br>:spiral_calendar:<b>Занятость:</b>
 До 30 часов в неделю (в связи с продолжающимся обучением в вузе)
 <!--
 **SawHimself/SawHimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
