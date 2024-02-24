@@ -1,10 +1,10 @@
 ### Мирошников Фёдор Григорьевич
 <b>Junior-программист</b>
-* Москва, м. Багратионовская		:information_source:Возраст: 20 лет
-* 
-* 
-* :spiral_calendar:<b>Занятость:</b>
-* До 30 часов в неделю (в связи с продолжающимся обучением в вузе)
+Москва, м. Багратионовская		:information_source:Возраст: 20 лет
+ 
+ 
+:spiral_calendar:<b>Занятость:</b>
+До 30 часов в неделю (в связи с продолжающимся обучением в вузе)
 <!--
 **SawHimself/SawHimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,20 +32,17 @@ Here are some ideas to get you started:
 
 ## Образование
 <hr>
-* МИРЭА 2021 год - в настоящий момент продолжаю обучение по направлению 
-* "Информационная безопасность"
+МИРЭА 2021 год - в настоящий момент продолжаю обучение по направлению 
+"Информационная безопасность"
 
 ## Навыки
 <hr>
-* Программирование на языке C# на таких фреймворках как 
-* Xamarin.Forms
-* ASP.NET
-* WPF
-* 
+* C# (Xamarin.Forms, ASP.NET, WPF) 
+
 * Git Github
-* 
+  
 * Также имел небольшой опыт работы в 
-* SQL Server Management (ms sql)
+SQL Server Management (ms sql)
 
 <!--
 ## Опыт работы
