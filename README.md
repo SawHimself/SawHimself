@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align='center'>
   <a href="https://t.me/VergoV">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  <a href="saw.himself@gmail.com">
+  <a href="mailto:saw.himself@gmail.com">
   	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <p align='center'>
 
