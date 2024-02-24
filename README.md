@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 
 ### 🛠 Навыки
 <hr>
-* C# (Xamarin.Forms, ASP.NET, WPF) 
+C# (Xamarin.Forms, ASP.NET, WPF) 
 
-* Git Github
+Git Github
   
-* Также имел небольшой опыт работы в 
+Также имел небольшой опыт работы в 
 SQL Server Management (ms sql)
 
 <!--
