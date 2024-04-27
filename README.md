@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Навыки
 <hr>
-C# (Xamarin.Forms, ASP.NET, WPF) 
+C# (ASP.NET, WPF) 
 
 Git Github
 
