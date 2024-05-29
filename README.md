@@ -6,8 +6,7 @@
         ℹ️ Возраст: 20 лет
 </p>
 
-<br>:spiral_calendar:<b>Занятость:</b>
-До 32 часов в неделю (в связи с продолжающимся обучением в вузе)
+
 <!--
 **SawHimself/SawHimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
